@@ -8,7 +8,7 @@ The dataset is the tweet archive of Twitter user [@dog_rates](https://twitter.co
 
 WeRateDogs has over 4 million followers and has received international media coverage.
 
-<center><img width="50%" src ="dog-rates-social.jpg"/></center>
+<center><img width="50%" src ="https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2017/04/dog-rates-social.jpg"/></center>
 
 
 ## Requirements
